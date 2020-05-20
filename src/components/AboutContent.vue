@@ -1,7 +1,7 @@
 <template>
   <section class="about-content" v-editable="blok">
     <div class="about-content__headlines">
-      <h2 class="about-content__title"> {{ blok.headline }} </h2>
+      <h2 class="about-content__title"> من نحن </h2>
 
       <hr class="divisor" />
 
