@@ -20,7 +20,7 @@ module.exports = {
       use: 'gridsome-source-storyblok',
       options: {
         client: {
-          accessToken: 'B8sjdrLQBjGQ6s8jJDHoQAtt' // Your_Access_Token_Here
+          accessToken: 'PI2N1e7DCWzr81C3OUJpiAtt' // Your_Access_Token_Here
         },
         version: 'published',
         params: {resolve_relations: 'blog-post.next_post'},
